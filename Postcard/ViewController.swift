@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
     //labels
     @IBOutlet weak var messageLabel: UILabel!
     @IBOutlet weak var nameLabel: UILabel!
